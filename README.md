@@ -1,26 +1,24 @@
 # _Word Count_
 
-##### _{Brief description of application}, {Date of current version}_
+##### _{This application will count the number of times a given word appears in a given string, 08/07/2015_
 
-#### By _**{List of contributors}**_
+#### By _**Brian Lau**_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}_
+_This application counts words. You can use it to find out if your college essay uses a word too many times. This can save you from getting an F on your first college essay.
 
 ## Setup
+* Insert word
+* Insert list
+* Count Words
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
+* Insert
+_Deployable on Heroku_
 
 ## Technologies Used
 
-_{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Ruby, Heroku, Sinatra_
 
 ### Legal
 
