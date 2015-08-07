@@ -1,6 +1,6 @@
 # _Word Count_
 
-##### _countwords.herokuapp.com
+##### countwords.herokuapp.com
 
 This application will count the number of times a given word appears in a given string, 08/07/2015_
 
