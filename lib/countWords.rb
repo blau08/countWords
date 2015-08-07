@@ -4,21 +4,17 @@ class String
 
   define_method(:countWords) do |words|
     word = self
-    anagrams = words.split(" ")
-    # binding.pry
-    new_array = []
-    count = 0
-    sentence = ""
+    list = words.gsub(",", " ").gsub(".", " ").gsub('"', " ").split(" ")
 
-    anagrams.each do |anagram|
+    counter = 0
+
+    list.each do |anagram|
       x = anagram
-      # binding.pry
       if x == word
-        count += 1
-        # binding.pry
+        counter += 1
       end
     end
-    count = count.to_s
-    count
+    # counter = counter.to_s
+    counter
   end
 end

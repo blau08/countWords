@@ -9,6 +9,6 @@ describe('countWords path', {:type => :feature}) do
     fill_in('word', :with => "dog")
     fill_in('list', :with => "dog dog cat")
     click_button("Count Words!")
-    expect(page).to have_content('2')
+    expect(page).to have_content(2)
   end
 end
