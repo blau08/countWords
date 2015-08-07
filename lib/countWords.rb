@@ -18,6 +18,7 @@ class String
         # binding.pry
       end
     end
+    count = count.to_s
     count
   end
 end
