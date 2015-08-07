@@ -1,6 +1,8 @@
 # _Word Count_
 
-##### _{This application will count the number of times a given word appears in a given string, 08/07/2015_
+##### _countwords.herokuapp.com
+
+This application will count the number of times a given word appears in a given string, 08/07/2015_
 
 #### By _**Brian Lau**_
 
